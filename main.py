@@ -1,7 +1,5 @@
 import socket
 import threading
-import hashlib
-import random
 
 def generate_key_schedule(key):
     key_schedule = []
